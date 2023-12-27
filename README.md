@@ -19,8 +19,8 @@
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Lab Overview: <br/>
+<img src="https://github.com/eavi12/AD_lab/assets/58631054/736aff57-3ce3-47f3-b42a-0b9ff985f429" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Select the disk:  <br/>
