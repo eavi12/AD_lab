@@ -23,7 +23,7 @@ Lab Overview: <br/>
 <img src="https://github.com/eavi12/AD_lab/assets/58631054/736aff57-3ce3-47f3-b42a-0b9ff985f429" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-First, we need to download and install VirtualBox and and ISO image for Windows 10 and Windows Server 2019  <br/>
+First, we need to download and install VirtualBox and an ISO image for Windows 10 and Windows Server 2019  <br/>
 <img src="https://github.com/eavi12/AD_lab/assets/58631054/1dfb56d3-b174-42f1-a906-368be104018b" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
