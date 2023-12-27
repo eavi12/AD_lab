@@ -27,8 +27,10 @@ First, we need to download and install VirtualBox and an ISO image for Windows 1
 <img src="https://github.com/eavi12/AD_lab/assets/58631054/1dfb56d3-b174-42f1-a906-368be104018b" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+After downloading and installing VirtualBox, both virtual machines are <br/>
+Windows 10 and Windows Server 2019 as our Domain Controller are booted and running<br/>
+Configure IPV4 for the Domain Controller
+<img src="https://github.com/eavi12/AD_lab/assets/58631054/e90ebc04-94a8-48f9-a4e0-e879a288889f" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Confirm your selection:  <br/>
