@@ -46,7 +46,7 @@ The test user is then added to Domain Admins group
 <img src="https://github.com/eavi12/AD_lab/assets/58631054/89d9a8b5-fdd9-4992-b470-dcd6b273f412" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Next we are going to install RAS/NAT which will allow the  Windows 10 client to be on a private virtual network but still access the Internet through the domain controller.   <br/>
+Next we are going to install RAS/NAT which will allow the  Windows 10 client to be on a private virtual network but still access the Internet via the domain controller.   <br/>
 <img src="https://github.com/eavi12/AD_lab/assets/58631054/5e94463a-81e4-4c6e-bbbb-ae3cbb9994f5" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://github.com/eavi12/AD_lab/assets/58631054/d3beaf38-6f41-4bda-a6dc-61bb3feaf6bd" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://github.com/eavi12/AD_lab/assets/58631054/733ed140-8e53-42ba-be16-224516d81504" height="80%" width="80%" alt="Disk Sanitization Steps"/>
@@ -72,8 +72,7 @@ Now from our Windows 10 VM we can login with one of the created users and login 
 <img src="https://github.com/eavi12/AD_lab/assets/58631054/b413b75f-d9f7-4a47-9e2b-34e0ec28386b" height="80%" width="80%" alt="Disk Sanitization Steps"/> <br/>
 
 <h2>Conclusion:</h2> <br/>
-In conclusion we installed and configured a Windows Server 2019 as our Domain Controller and AD DS with a FQDN of mydomain.com. We set up the Domain Controller to have two NIC's one for public internet access and one for internal network access. Next we configured the RAS/NAT to allow remote access and network address translation on the server. Next we configured the DC server for DHCP with IP range of 172.16.0.100-200 with a NetMask of /24 and loopback DNS for the DC as it is acting as its own DNS server as well. We ran a powershell script to generate random users for the DC. Lastly we install and configured Windows 10 VM as the client for the DC. Now we are able to login to the Windows 10 VM as one of the newly created users and be a part of mydomain.com
-
+In conclusion we installed and configured a Windows Server 2019 as our Domain Controller and AD DS with a FQDN of mydomain.com. We set up the Domain Controller to have two NIC's one for public internet access and one for internal network access. Next we configured the RAS/NAT to allow remote access and network address translation on the server. Next we configured the DC server for DHCP with IP range of 172.16.0.100-200 with a NetMask of /24 and loopback DNS for the DC as it is acting as its own DNS server as well. We ran a powershell script to generate random users for the DC. Lastly we install and configured Windows 10 VM as the client for the DC. Now we are able to login to the Windows 10 VM as one of the newly created users access mydomain.com to have access to the environment and its resources.
 </p>
 
 
