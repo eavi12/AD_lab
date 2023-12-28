@@ -63,9 +63,9 @@ Next we created multiple users with generic password for lab purposes with a Pow
 
 Next on the client VM we are going to make it a member of mydomain.com 
 <img src="https://github.com/eavi12/AD_lab/assets/58631054/053d2045-2bf4-4bd6-b5a4-8feeb0c53b3e" height="80%" width="80%" alt="Disk Sanitization Steps"/> <br/>
-<img src="https://github.com/eavi12/AD_lab/assets/58631054/1fb81608-30ce-4f00-a5dc-3a7f9fcd0767" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-Now from our Windows 10 VW we can login with one of the created users and login via our Domain Controller we are going to login with the username aabrev
-<img src="https://github.com/eavi12/AD_lab/assets/58631054/0030d5a5-b872-437b-a7e5-bf4ffaa55c21" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/eavi12/AD_lab/assets/58631054/1fb81608-30ce-4f00-a5dc-3a7f9fcd0767" height="80%" width="80%" alt="Disk Sanitization Steps"/> <br/>
+Now from our Windows 10 VM we can login with one of the created users and login via our Domain Controller we are going to login with the username aabrev
+
 <img src="https://github.com/eavi12/AD_lab/assets/58631054/ed3bf177-59c2-4868-ad48-95e591b3c910" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://github.com/eavi12/AD_lab/assets/58631054/c4600b16-3c2c-4129-89f8-be2efa02770a" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://github.com/eavi12/AD_lab/assets/58631054/b413b75f-d9f7-4a47-9e2b-34e0ec28386b" height="80%" width="80%" alt="Disk Sanitization Steps"/> <br/>
