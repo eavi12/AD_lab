@@ -49,11 +49,20 @@ The test user is then added to Domain Admins group
 Next we are going to install RAS/NAT which will allow the  Windows 10 client to be on a private virtual network but still access the Internet through the domain controller.   <br/>
 <img src="https://github.com/eavi12/AD_lab/assets/58631054/5e94463a-81e4-4c6e-bbbb-ae3cbb9994f5" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://github.com/eavi12/AD_lab/assets/58631054/d3beaf38-6f41-4bda-a6dc-61bb3feaf6bd" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/eavi12/AD_lab/assets/58631054/733ed140-8e53-42ba-be16-224516d81504" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 <br />
 <br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Now were are going to install the DHCP server.  <br/>
+<img src="https://github.com/eavi12/AD_lab/assets/58631054/713991e4-c276-4a06-a255-050be6c3c683" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/eavi12/AD_lab/assets/58631054/612ec6a4-2972-4e8d-bb9c-2bba468e0d76" height="80%" width="80%" alt="Disk Sanitization Steps"/> <br/>
+
+Next we created multiple users with generic password for lab purposes with a Powershell Script.
+<img src="https://github.com/eavi12/AD_lab/assets/58631054/075c0f03-fd29-4b3c-b627-378d9d58449a" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/eavi12/AD_lab/assets/58631054/4fd564a8-a24b-4193-b5e0-5fce46550265" height="80%" width="80%" alt="Disk Sanitization Steps"/> <br/>
+
+Next on the client VM we are going to it a member of mydomain.com 
+<img src="https://github.com/eavi12/AD_lab/assets/58631054/053d2045-2bf4-4bd6-b5a4-8feeb0c53b3e" height="80%" width="80%" alt="Disk Sanitization Steps"/> <br/>
 </p>
 
 <!--
