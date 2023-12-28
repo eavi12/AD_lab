@@ -61,7 +61,7 @@ Next we created multiple users with generic password for lab purposes with a Pow
 <img src="https://github.com/eavi12/AD_lab/assets/58631054/075c0f03-fd29-4b3c-b627-378d9d58449a" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://github.com/eavi12/AD_lab/assets/58631054/4fd564a8-a24b-4193-b5e0-5fce46550265" height="80%" width="80%" alt="Disk Sanitization Steps"/> <br/>
 
-Next on the client VM we are going to it a member of mydomain.com 
+Next on the client VM we are going to make it a member of mydomain.com 
 <img src="https://github.com/eavi12/AD_lab/assets/58631054/053d2045-2bf4-4bd6-b5a4-8feeb0c53b3e" height="80%" width="80%" alt="Disk Sanitization Steps"/> <br/>
 </p>
 
